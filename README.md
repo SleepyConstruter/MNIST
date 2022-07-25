@@ -1,3 +1,3 @@
 # MNIST
 
-Code for Beginner Deep Learning Tutorial | MNIST Digits Classification Neural Network in Python, Keras
+Code for Beginner Deep Learning | MNIST Dataset Neural Network in Python, Keras
